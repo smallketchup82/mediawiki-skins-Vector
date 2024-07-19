@@ -12,7 +12,8 @@
 			"Trisorn Triboon",
 			"Woraponboonkerd",
 			"Ekminarin",
-			"Kaoavi"
+			"Kaoavi",
+			"RidJasper"
 		]
 	},
 	"skinname-vector": "เวกเตอร์แบบเก่า (2553)",
@@ -32,6 +33,7 @@
 	"vector-no-language-button-label": "เพิ่มภาษา",
 	"vector-no-language-button-aria-label": "บทความนี้มีเฉพาะในภาษานี้ เพิ่มบทความสำหรับภาษาอื่น ๆ",
 	"vector-language-redirect-to-top": "ใน {{SITENAME}} ลิงก์ข้ามไปยังรุ่นภาษาอื่นของบทความนี้ถูกย้ายไปด้านบนแล้วที่ทางขวาของชื่อหน้า [[#p-lang-btn|ไปด้านบน]]",
+	"vector-language-variant-switcher-label": "เปลี่ยนรูปแบบภาษา",
 	"vector-action-addsection": "เพิ่มหัวข้อ",
 	"vector-action-delete": "ลบ",
 	"vector-action-move": "ย้าย",
@@ -49,6 +51,7 @@
 	"vector-more-actions": "เพิ่มเติม",
 	"vector-search-loader": "กำลังโหลดคำแนะนำการค้นหา",
 	"vector-searchsuggest-containing": "<strong class=\"cdx-typeahead-search__search-footer__query\">$1</strong>",
+	"vector-intro-page": "Help:บทนำ",
 	"vector-toc-heading": "เนื้อหา",
 	"vector-toc-toggle-position-title": "ซ่อน",
 	"vector-toc-beginning": "บทนำ",
